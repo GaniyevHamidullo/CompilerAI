@@ -1,2 +1,2 @@
 # CompilerAI
-AIga asoslangan sodda c kompilyatori
+This compiler is AI based c compiler
