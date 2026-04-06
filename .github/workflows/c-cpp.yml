@@ -14,6 +14,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+    -name: list file
+      run: ls -la
     - name: compile c program
       run: gcc -o main main.c
     - name: result
